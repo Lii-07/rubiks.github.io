@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    background-color: azure;
+    text-align: center;
+    margin: 50px;
+    padding: 50px 0;
+}
+
+#rubin {
+    height: 100px;
+    width: 100x;
+}
+
+#intro {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+#video {
+    color: red;
+}
